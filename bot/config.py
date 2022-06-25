@@ -1,10 +1,10 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    BOT_TOKEN = "5305261834:AAG7Sx8Il2-2vg9VQ70gY_7ALnSqrS7ogPc"
+    APP_ID = "14295276"
+    API_HASH = "8989fe7387468c9094b6c4bd04adbe0f"
+    DATABASE_URL = "postgres://rvrexsxrnihzex:bd847fa1b40002523d66895de72451bc72fae258172e3d94f7304cde30bea75b@ec2-52-72-56-59.compute-1.amazonaws.com:5432/dds5146n7b9df1"
+    SUDO_USERS = "5383726060" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/+7Dg5FMbe35w5YWJl"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = ""
     G_DRIVE_CLIENT_SECRET = ""
